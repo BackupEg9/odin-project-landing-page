@@ -1,0 +1,38 @@
+.header-links {
+    color:rgb(16, 61, 18);
+    font-size: 16px;
+}
+
+.body-header {
+    color:blueviolet
+
+}
+
+.subtext {
+    color:rgb(162, 177, 31)
+}
+
+.middle-header {
+    color:rgb(255, 0, 140)
+}
+
+.button {
+    color:#ffffff;
+    background:#0000ff;
+    padding: 20px;
+    width: 80px;
+    border-radius: 25px;
+}
+
+.quote {
+    color:gold
+}
+
+.footer-header {
+    color:orangered
+}
+
+.attributed {
+    color:aqua
+}
+
